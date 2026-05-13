@@ -17,4 +17,4 @@ RB2B's WordPress plugin adds RB2B's HTML snippet directly to the global header f
 4. Return to the [RB2B dashboard](https://app.rb2b.com/script) to validate your script installation.
 
 ## Support
-Support documentation can be found at [https://support.rb2b.com](https://support.rb2b.com).
+Support documentation can be found at [https://support.rb2b.com](https://support.rb2b.com/en/articles/8795573-rb2b-install-guide-for-wordpress).
